@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/taskformounth.dir/main.cpp.o  -o taskformounth 
